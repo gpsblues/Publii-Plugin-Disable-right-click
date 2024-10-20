@@ -1,0 +1,45 @@
+{
+	"name": "Disable right click and selection",
+	"description": "This plugin toggle right click and user selection via JS and/or CSS.",
+	"license": "GPL-3.0",
+	"author": "Vittorio Ramponi - www.mywebpassion.it",
+	"version": "1.0.0",
+	"scope": "site",
+	"minimumPubliiVersion": "0.40.0",
+	"usePluginSettingsView": false,
+    "assets": {
+        "front": [
+            "disableRC.min.css"
+        ]
+    },
+    "messageInOptions": {
+        "type": "info",
+        "text": "This simple plugin disables/enables right click mouse and user selection on website. It can work via CSS, JS or both"
+    },
+    "config": [
+        {
+            "name": "cssSelection",
+            "label": "CSS: disable selection",
+            "note": "",
+            "type": "checkbox",
+            "value": true,
+            "group": "Configuration"
+        },
+        {
+            "name": "jsSelection",
+            "label": "JS: disable selection",
+            "note": "",
+            "type": "checkbox",
+            "value": true,
+            "group": "Configuration"
+        },
+        {
+            "name": "jsRightClick",
+            "label": "JS: disable right click",
+            "note": "",
+            "type": "checkbox",
+            "value": true,
+            "group": "Configuration"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+/* The plugin uses the minified version of this file. If you make changes, remember to save as a minified file. */
+
+/* Disable text selection */
+body, body * {
+    -webkit-touch-callout: none;    /* iOS Safari */
+    -webkit-user-select: none;      /* Safari */
+    -khtml-user-select: none;       /* Konqueror HTML */
+    -moz-user-select: none;         /* Old versions of Firefox */
+    -ms-user-select: none;          /* Internet Explorer/Edge */
+    -o-user-select: none;           /* Opera */
+    user-select: none;
+}
