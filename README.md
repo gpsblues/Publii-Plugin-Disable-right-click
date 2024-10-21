@@ -9,11 +9,8 @@ This Publii plugin disables/enables right click and/or user selection. It can wo
 ![publii imace plugin](https://raw.githubusercontent.com/gpsblues/Publii-Plugin-Disable-right-click/refs/heads/main/.assets/screen1.png)
 
 ## Installation and usage
-- Download last release .zip file from [release page](https://github.com/gpsblues/Publii-Plugin-Disable-right-click/releases/)
-- Open [CMS Publii](https://getpublii.com/) / three vertical dots / Plugins / Install plugin and select the .zip file you downloaded previously
-- The plugin will appear in the list, press Go back
-- Click on Tools & pluging sheet
-- Click on the new plugin selector to activate it
-- Click on the plugin name to change the settings
-- Click Save setting
-- Sync your website or generate preview
+- Download the .zip file of the latest plugin version from the [release page](https://github.com/gpsblues/Publii-Plugin-Disable-right-click/releases/)
+- Open Publii CMS and [install the plugin](https://getpublii.com/docs/plugins.html#installingplugins)
+- [Enabling plugin](https://getpublii.com/docs/plugins.html#enablingplugins)
+- Set plugin options by click on its name
+- Click "Save Settings" or "Save & Preview" to see it in action
