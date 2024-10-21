@@ -4,4 +4,5 @@ A simple plugin that disables right mouse click and user selection.
 
 ## Usage
 This Publii plugin disables/enables right click and/or user selection. It can work via CSS, JS or both.
-<p><img src="https://raw.githubusercontent.com/gpsblues/Publii-Plugin-Disable-right-click/refs/heads/main/assets/screen1.png"></p>
+
+![publii imace plugin](https://raw.githubusercontent.com/gpsblues/Publii-Plugin-Disable-right-click/refs/heads/main/.assets/screen1.png)
