@@ -1,5 +1,5 @@
 {
-	"name": "Disable right click and selection",
+	"name": "Disable right click",
 	"description": "This plugin toggle right click and user selection via JS and/or CSS.",
 	"license": "GPL-3.0",
 	"author": "Vittorio Ramponi - www.mywebpassion.it",
