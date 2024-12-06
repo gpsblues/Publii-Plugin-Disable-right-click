@@ -12,7 +12,7 @@ class DisableRightClick {
 
 	addStyle(rendererInstance) {
 		if(this.config.cssSelection){
-			return `<link rel="stylesheet" href="${rendererInstance.siteConfig.domain}/media/plugins/disableRightClick/disableRC.min.css">`;
+			return `<link rel="stylesheet" href="${rendererInstance.siteConfig.domain}/media/plugins/disable-right-click/disableRC.min.css">`;
 		}
 		return '';
 	}

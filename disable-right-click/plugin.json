@@ -3,7 +3,7 @@
 	"description": "This plugin toggle right click and user selection via JS and/or CSS.",
 	"license": "GPL-3.0",
 	"author": "Vittorio Ramponi - www.mywebpassion.it",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"scope": "site",
 	"minimumPubliiVersion": "0.40.0",
 	"usePluginSettingsView": false,
